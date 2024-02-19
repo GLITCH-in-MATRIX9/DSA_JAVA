@@ -13,4 +13,4 @@ public class q4 {
             sum+=i;
         }System.out.println("the sum is "+sum);
     }
-}
+}   
