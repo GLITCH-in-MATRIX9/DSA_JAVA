@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 //calculate area from the radius
 public class q2 {
     public static void main(String[] args) {
