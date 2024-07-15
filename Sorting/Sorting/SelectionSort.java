@@ -21,6 +21,7 @@ public class SelectionSort {
      
 
     }
+    //iss wale method me bas smallest element se swap hota hai, we just need to keep updating the smallest element
     public static void main(String[] args) {
         int arr[] = {13, 46, 24, 52, 20, 9};
         int n = arr.length;

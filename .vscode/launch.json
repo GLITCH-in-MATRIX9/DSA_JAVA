@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "Sorting.SelectionSort",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "Spiral",
+            "request": "launch",
+            "mainClass": "Spiral",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "Rotatematrix",
+            "request": "launch",
+            "mainClass": "Rotatematrix",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "matrix_zeroes",
+            "request": "launch",
+            "mainClass": "matrix_zeroes",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
             "name": "Leader",
             "request": "launch",
             "mainClass": "Leader",

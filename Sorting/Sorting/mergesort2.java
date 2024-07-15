@@ -1,4 +1,5 @@
-public class mergesort {
+package Sorting;
+public class mergesort2 {
     public static void conquer(int arr[] , int si, int mid, int ei){
         int merged[]=new int[ei-si+1];//naya array jaha pe abb values asc order me save hongi
         int idx1=si;
