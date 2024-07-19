@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TUF",
+            "request": "launch",
+            "mainClass": "Stacks.TUF",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "Second_largest",
+            "request": "launch",
+            "mainClass": "Second_largest",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "Addone",
+            "request": "launch",
+            "mainClass": "Addone",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "Sorting.InsertionSort",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Sorting.BubbleSort",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
             "name": "SelectionSort",
             "request": "launch",
             "mainClass": "Sorting.SelectionSort",

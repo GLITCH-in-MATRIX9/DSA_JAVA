@@ -14,7 +14,7 @@ public class InsertionSort {
         for(int i=1;i<arr.length;i++){ //hum index 1 se start karte hai , pehla element abhi chod do
             int current=arr[i]; // the value of arr[i] for i=1 is 5 , aur yeh hai 2nd element of array
             int j=i-1; //yeh hai pehla element
-            while(j>=0 && current<arr[j]){ //agar 2nd element chota hua , tab tak usko array me aage karo jab tak woh apni jagah par na ho
+            while(j>=0 && current<arr[j]){ //agar 2nd element chota hua , tab tak usko array me peeche karo jab tak woh apni jagah par na ho
                 arr[j+1]=arr[j];
                 j--; //aur humare element ka index bhi toh ek peeche karna hai 
             }

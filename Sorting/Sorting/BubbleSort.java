@@ -12,7 +12,7 @@ public class BubbleSort {
 //basic info jaan lo bubble sort ke baare me, yeh biklul bubble ki tarah elements ko jump karake bhejega
     public static void main(String[] args) {
         int arr[]={7,8,1,2,3,10}; //yeh array hai
-        for(int i=0;i<arr.length-1;i++){ // we'll go till minus one
+        for(int i=0;i<arr.length-1;i++){ // we'll go till minus one the length of array kyunki last wala already sort ho gya hoga end tak
              for(int j=0;j<arr.length-i-1;j++){ // hum sirf uske aage ke bache hue elements tak karenge matlab pehla element agar 
                 //dekh rhe hai toh uske aage 4 aur element honge na compare karne ke liye .....isliye  
                 if(arr[j]>arr[j+1]){ //one number ahead is compared 

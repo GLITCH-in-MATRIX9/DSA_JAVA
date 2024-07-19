@@ -1,3 +1,4 @@
+package Sorting;
 public class quicksort{
     public static int partition(int arr[], int low, int high){
         /*high is the last element of the arr */

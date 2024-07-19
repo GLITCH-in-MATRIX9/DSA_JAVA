@@ -4,26 +4,28 @@ public class Second_largest {
             return -1;
 
         }
-        int first= Integer.MIN_VALUE, second = Integer.MIN_VALUE;
+        int first = Integer.MIN_VALUE, second = Integer.MIN_VALUE;
         for (int i = 0; i < n; i++) {
             if (arr[i] > first) {
                 second = first;
                 first = arr[i];
 
-            }else if(arr[i]>second && arr[i]!=first){
-                second=arr[i];
+            } else if (arr[i] > second && arr[i] != first) {
+                second = arr[i];
             }
         }
-        // If second largest doesn't change, that means there's no second distinct largest element
-        if (second == Integer.MIN_VALUE) {
-            return -1;
-        } else {
-            return second;
-        }
+        // If second largest doesn't change, that means there's no second distinct
+        // largest element
+        // if (second == Integer.MIN_VALUE) {
+        // return -1;
+        // } else {
+        // return second;
+        // }
+        return second;
     }
 
     public static void main(String[] args) {
-        int arr[] = { 1, 4, 2, 3, 10 };
+        int arr[] = { 4};
         int n = arr.length;
         int secondLargest = SecondLargest(arr, n);
         System.out.println("The second largest element is: " + secondLargest);

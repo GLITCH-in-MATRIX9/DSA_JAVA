@@ -19,9 +19,13 @@ public class Addone {
     }
 
     public static void main(String[] args) {
-        int arr[] = { 1, 2, 3, 4, 5 };
+        int arr[] = { 9,9,9};
         int[] result = addonecheck(arr);
         System.out.println(Arrays.toString(result)); // this was my learning 
+        
+        for(int i=0;i<result.length;i++){
+            System.out.print(result[i]+" ");
+        }
 
     }
 
