@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "subarraysum",
+            "request": "launch",
+            "mainClass": "subarraysum",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "array_to_ll",
+            "request": "launch",
+            "mainClass": "LinkedLists.array_to_ll",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
             "name": "TUF",
             "request": "launch",
             "mainClass": "Stacks.TUF",
