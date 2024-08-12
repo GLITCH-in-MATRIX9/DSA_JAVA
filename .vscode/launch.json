@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "making_a_linked_list",
+            "request": "launch",
+            "mainClass": "LinkedLists.making_a_linked_list",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "cumulative_sum",
+            "request": "launch",
+            "mainClass": "cumulative_sum",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
             "name": "subarraysum",
             "request": "launch",
             "mainClass": "subarraysum",

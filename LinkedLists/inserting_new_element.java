@@ -21,7 +21,7 @@ class Node{
 }
 
 
-public class array_to_ll {
+public class inserting_new_element {
 
     public static void printLL(Node head) {
         while (head != null) {
