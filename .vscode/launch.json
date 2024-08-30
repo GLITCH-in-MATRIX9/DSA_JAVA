@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StudentDemo",
+            "request": "launch",
+            "mainClass": "oops.StudentDemo",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "oops",
+            "request": "launch",
+            "mainClass": "oops.oops",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "day_2",
+            "request": "launch",
+            "mainClass": "oops.day_2",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "copyConstructor",
+            "request": "launch",
+            "mainClass": "oops.copyConstructor",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "day_1",
+            "request": "launch",
+            "mainClass": "oops.day_1",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "day_2",
+            "request": "launch",
+            "mainClass": "OOPS.day_2",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "parameterized_constructor",
+            "request": "launch",
+            "mainClass": "OOPS.parameterized_constructor",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "Parameterized_constructor",
+            "request": "launch",
+            "mainClass": "OOPS.Parameterized_constructor",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "parametarised_constructor",
+            "request": "launch",
+            "mainClass": "OOPS.parametarised_constructor",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "Default_Constructor",
+            "request": "launch",
+            "mainClass": "OOPS.Default_Constructor",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
+            "name": "day_1",
+            "request": "launch",
+            "mainClass": "OOPS.day_1",
+            "projectName": "DSA_JAVA_6cf5cb02"
+        },
+        {
+            "type": "java",
             "name": "making_a_linked_list",
             "request": "launch",
             "mainClass": "LinkedLists.making_a_linked_list",
